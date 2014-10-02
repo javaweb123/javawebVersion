@@ -4,3 +4,6 @@ Git has a mutable index called stage.
 
 sss
 
+
+aaa
+
